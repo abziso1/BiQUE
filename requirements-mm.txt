@@ -1,0 +1,5 @@
+# Verified in existing mhyper environment on WSL2 / RTX 5070 Ti.
+# Install the CUDA wheel matching your hardware separately; no encoder downloads.
+torch==2.9.0
+numpy>=1.24
+tqdm>=4.64

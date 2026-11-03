@@ -13,3 +13,8 @@ wheels/
 ckpt/
 data/
 logs/
+tokens/
+
+# IDEs
+.vscode/
+embeddings/
